@@ -1,9 +1,12 @@
-### Hi there 👋
+### Hi there! Welcome to my profile
+
+I'm a programming student who's currently a novice at using Github. PLease bear with me while I learn my way and begin my noob adventure of creating and contributing to projects
 
 <!--
 **SirShamrock/SirShamrock** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
